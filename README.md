@@ -53,7 +53,7 @@ public static void main(strings[]);
 Quadratic quad=new Quadratic();
 quad.get();
 quad.compute();
-System.out.print("Name is veena");
-System.out.print("USN=1BM23CS135");
+System.out.print("Name is megha");
+System.out.print("USN=1BM23CS188");
 }
 }# OOJ
