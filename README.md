@@ -48,7 +48,7 @@ System.out.print("second root is" + real +"-" + imaginary + "i");
 }
 class QuadraticMain
 {
-public static void main(strings[]);
+public static void main(Strings[] args)
 {
 Quadratic quad=new Quadratic();
 quad.get();
@@ -56,4 +56,4 @@ quad.compute();
 System.out.print("Name is megha");
 System.out.print("USN=1BM23CS188");
 }
-}# OOJ
+}
